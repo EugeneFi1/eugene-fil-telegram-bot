@@ -1,0 +1,14 @@
+{
+  "name": "eugenefil_bot",
+  "version": "1.0.0",
+  "description": "Eugene Fil telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Eugene Fil",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
